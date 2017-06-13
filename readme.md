@@ -2,8 +2,13 @@
 
 [![N|Solid](https://nuclide.io/static/favicon.png)](https://nuclide.io) 
 
-Nuclide server setup script , setup essensal tools for nuclide server
+Nuclide server setup script, setup essential tools for nuclide server.
 
+# installtion!
+
+```sh
+$ wget https://github.com/MohamedHuzien/nuclide-Server-setup.git && sudo sh Nuclide_server.sh
+```
 
 # Tools script will setup for you !
 
